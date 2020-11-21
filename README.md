@@ -16,4 +16,4 @@ When this project runs the interface view looks like the following
 
 ![CreateLink](https://user-images.githubusercontent.com/16364944/99871379-0bc99000-2beb-11eb-82cc-6193bf6a69d2.PNG)
 
-![LinkList](https://user-images.githubusercontent.com/16364944/99871375-ffddce00-2bea-11eb-8dc5-2e986d531f23.PNG)
+![LinkList](https://user-images.githubusercontent.com/16364944/99871662-5e0bb080-2bed-11eb-9422-2f022f35620c.PNG)
