@@ -1,0 +1,12 @@
+.block-example {
+  width: 26rem;
+  height: 26rem;
+  margin: 0.5rem;
+  background-color: rgba(130, 127, 127, 0.796);
+  display: inline-block;
+}
+
+.cardTitle {
+  font-style: "bold";
+  padding: "20px 24px";
+}
