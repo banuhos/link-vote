@@ -12,7 +12,7 @@ git clone https://github.com/banuhos/link-vote.git
 
 ## Run Project
 
-When this project runs the interface view looks like the following
+When you run this project the interface looks like the following
 
 ![CreateLink](https://user-images.githubusercontent.com/16364944/99871379-0bc99000-2beb-11eb-82cc-6193bf6a69d2.PNG)
 
